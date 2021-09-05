@@ -113,7 +113,6 @@
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-hadoop:1.9.0-cdh6.3.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-format:2.4.0-cdh6.3.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-jackson:1.9.0-cdh6.3.2" level="project" />
-    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.arrow:arrow-vector:0.10.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.arrow:arrow-format:0.10.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.arrow:arrow-memory:0.10.0" level="project" />
@@ -309,5 +308,7 @@
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.17" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />
+    <orderEntry type="library" name="Maven: redis.clients:jedis:2.1.0" level="project" />
   </component>
 </module>
